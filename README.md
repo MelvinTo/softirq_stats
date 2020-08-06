@@ -18,6 +18,8 @@ Usage of ./irq-rate:
 
 ## Example Output
 ```
+$ ./irq-rate
+
 Refresh Interval: every 3 seconds
 
                      CPU0           CPU1           CPU2           CPU3
